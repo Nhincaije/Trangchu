@@ -333,5 +333,9 @@ footer p {
 .btn-submit:hover {
     background: #333;
 }
+@page {
+    size: A4;
+    margin: 15mm;
+}
 
 
